@@ -10,7 +10,8 @@ Edit the values in there to your liking and start the game back up.
 
 This is what the config looks like.  I use 0.6 for vertical as shown, which is something you must edit while following the steps above.
 
-## Settings file was created by plugin SurvislandTweaks v1.0.0
+
+```## Settings file was created by plugin SurvislandTweaks v1.0.0
 ## Plugin GUID: SurvislandTweaks
 
 [General]
@@ -29,3 +30,4 @@ FastWheel = true
 # Setting type: Single
 # Default value: 1
 VertSpeedFactor = 0.6
+```
